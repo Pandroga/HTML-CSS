@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(253, 178, 178);
+  font-family: cursive;
+  color:rgba(255, 0, 34, 0.87);
+  }
+  h1{
+  flex-direction:colum;
+  background-color: rgb(253, 178, 178);
+  font-family:cursive;
+  color:rgb(255, 0, 128);
+  }
+  h2{
+    background-color: rgb(253, 178, 178);
+    color: rgb(140, 0, 255)
+  }
+  h3{
+    background-color: rgb(253, 178, 178);
+    color: rgb(72, 171, 252);
+  }
